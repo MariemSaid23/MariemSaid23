@@ -34,12 +34,17 @@ A highly skilled Full-Stack developer with practical experience gained as a trai
 ##### Framwork:
 ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
 
+##### My Problem Solving Skills:
+<a href="https://codeforces.com/profile/maryamelfishaw7">
+  <img src="https://img.shields.io/badge/codeforces-%232f2f2f?style=flat&logo=codeforces&logoColor=white"/>
+</a>
 
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariemSaid23&show_icons=true&locale=en&layout=compact" alt="MariemSaid23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MariemSaid23&show_icons=true&locale=en" alt="MariemSaid23" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MariemSaid23&" alt="MariemSaid23" /><
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MariemSaid23&" alt="MariemSaid23" />
 <!--
 **MariemSaid23/MariemSaid23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
